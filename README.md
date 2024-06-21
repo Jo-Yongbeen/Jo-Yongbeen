@@ -3,7 +3,7 @@
 <h1 align="left">This is Yongbeen Jo,</h1>
 <h3 align="left">a master's course student in agricultural and resource economics at Kangwon National University.</h3>
 
-- 👨‍💻 All of my projects are available at [https://scholar.google.co.kr/citations?user=KnpcMF0AAAAJ&hl=ko](https://scholar.google.co.kr/citations?user=KnpcMF0AAAAJ&hl=ko)
+- Google Scholar Profile: [https://scholar.google.co.kr/citations?user=KnpcMF0AAAAJ&hl=ko](https://scholar.google.co.kr/citations?user=KnpcMF0AAAAJ&hl=ko)
 
 - How to reach me **joyongbeen@kangwon.ac.kr**
 
