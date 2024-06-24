@@ -15,5 +15,5 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-- Proficient in: <a href="https://www.stata.com">Stata</a>(statistical software)
+- Proficient in: <a href="https://www.stata.com">Stata</a>
  </p>
