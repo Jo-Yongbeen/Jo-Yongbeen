@@ -16,6 +16,7 @@
 <a href="https://scholar.google.co.kr/citations?user=KnpcMF0AAAAJ">Google Scholar</a>,
 <a href="https://www.nl.go.kr/isni/0000000514497465">ISNI</a>,
 <a href="https://librarian.nl.go.kr/LI/contents/L20101000000.do?id=KAC2022E5620">National Library of Korea</a>,
+<a href="http://www.scholar.go.kr/url/2491100600000039">K-Scholar</a>,
 <a href="mailto:joyongbeen@kangwon.ac.kr">joyongbeen@kangwon.ac.kr</a>,
 <a href="mailto:yongb22n@gmail.com">yongb22n@gmail.com</a>
 </p>
