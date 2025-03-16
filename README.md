@@ -1,7 +1,7 @@
 ### ABOUT ME
 
 <h1 align="left">This is Yongbeen Jo,</h1>
-<h2 align="left">a Lieutenant in the Republic of Korea Army Artillery & <br> a master's student specializing in agricultural and resource economics at Kangwon National University, Republic of Korea.</h2>
+<h2 align="left">a First lieutenant in the Republic of Korea Army Artillery & <br> a master's student specializing in agricultural and resource economics at Kangwon National University, Republic of Korea.</h2>
 <h3 align="left">My fields of interest include sustainable agriculture, agrifood consumption, and environmental economics. 
 <br> I'm passionate about developing solutions that promote sustainability in agriculture and improve the environmental impact of food production and consumption. 
 <br> Feel free to explore my work and connect with me for potential collaborations.</h3>
@@ -15,6 +15,8 @@
 <a href="https://naver.me/5v4Tlrwy">Naver</a>,
 <a href="https://scholar.google.co.kr/citations?user=KnpcMF0AAAAJ">Google Scholar</a>,
 <a href="https://www.nl.go.kr/isni/0000000514497465">ISNI</a>,
+<a href="https://orcid.org/0009-0002-2336-8441">ORCID</a>,
+<a href="https://www.researchgate.net/profile/Yongbeen-Jo">ResearchGate</a>,
 <a href="https://librarian.nl.go.kr/LI/contents/L20101000000.do?id=KAC2022E5620">National Library of Korea</a>,
 <a href="http://www.scholar.go.kr/url/2491100600000039">K-Scholar</a>,
 <a href="mailto:joyongbeen@kangwon.ac.kr">joyongbeen@kangwon.ac.kr</a>,
