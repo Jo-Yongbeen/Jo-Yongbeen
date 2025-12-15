@@ -12,7 +12,6 @@
 
 <h3 align="left">- Profile Sites & Contact:</h3>
 <a href="https://github.com/Jo-Yongbeen">GitHub</a>,
-<a href="https://naver.me/5v4Tlrwy">Naver</a>,
 <a href="https://scholar.google.co.kr/citations?user=KnpcMF0AAAAJ">Google Scholar</a>,
 <a href="https://www.nl.go.kr/isni/0000000514497465">ISNI</a>,
 <a href="https://orcid.org/0009-0002-2336-8441">ORCID</a>,
