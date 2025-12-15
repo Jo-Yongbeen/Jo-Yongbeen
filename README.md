@@ -18,6 +18,7 @@
 <a href="https://www.researchgate.net/profile/Yongbeen-Jo">ResearchGate</a>,
 <a href="https://librarian.nl.go.kr/LI/contents/L20101000000.do?id=KAC2022E5620">National Library of Korea</a>,
 <a href="http://www.scholar.go.kr/url/2491100600000039">K-Scholar</a>,
+<p align="left">
 <a href="mailto:joyongbeen@kangwon.ac.kr">joyongbeen@kangwon.ac.kr</a>,
 <a href="mailto:yongb22n@gmail.com">yongb22n@gmail.com</a>
 </p>
@@ -29,6 +30,5 @@
 
 <h3 align="left">- Statistical Skills:</h3>
 Proficient in: <a href="https://www.stata.com">Stata</a>,
-<a href="https://www.ibm.com/spss">SPSS</a>,
-<a href="https://www.r-project.org/">R
+<a href="https://www.ibm.com/spss">SPSS</a>
  </p>
